@@ -1,2 +1,6 @@
+
 hello atguigu! hello git
-masterText!
+masterText
+hello atguigu! hello git!
+hot-fix test
+Press ENTER or type command to continue
